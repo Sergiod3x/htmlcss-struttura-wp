@@ -35,23 +35,29 @@ header {
     height: 350px;
     background-color: rgb(255, 0, 106);
     margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.container-due{
+    background-color: aqua;
 }
 
 .medium-title{
     height: 80px;
     background-color: rgb(54, 134, 165);
-    margin-top: 25px;
     margin-bottom: 25px;
 }
 
 main, aside, .mid-sidebar {
     height: 500px;
+    margin-bottom: 25px;
 }
 
 .mid-sidebar {
     background-color: #777;
     width: calc(20% - 25px);
     margin-right: 25px;
+    
 }
 
 
@@ -72,7 +78,7 @@ aside {
 footer {
     background-color: blue;
     height: 50px;
-    margin-top: 25px;
+    margin-top: 15px;
 }
 
 
